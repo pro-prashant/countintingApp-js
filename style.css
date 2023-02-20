@@ -1,0 +1,65 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+}
+
+body{
+	background-color: black;
+}
+
+.main{
+
+width:100%;
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+
+.container{
+
+width: 30rem;
+height: 15rem;
+background-color: #fff;
+padding: 10px;
+border-radius: 10px;
+font-size: 40px;
+text-align: center;
+
+}
+button{
+
+display: block;
+width: 100%;
+background-color: black;
+color: #fff;
+margin-top: 80px;
+border-radius: 10px;
+font-size: 30px;
+cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
